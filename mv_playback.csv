@@ -1,0 +1,121 @@
+case no.,title, group/artist,views(million),upload date,type of song,link
+1,Gangnam Style,PSY,4680,15/7/2012,kpop,
+2,DDU-DU DDU-DU,Blackpink,2013,15/6/2018,kpop
+3,Kill This Love,Blackpink,1735,5/4/2019,kpop
+4,Boy With Luv,BTS,1634,12/4/2019,kpop
+5,Gentlemen,PSY,15.39,13/4/2013,kpop
+6,BoomBaYah,Blackpink,1532,8/8/2016,kpop
+7,DNA,BTS,18/9/2017,kpop
+8,Mic Drop,BTS,24/11/2017,kpop
+9,As if it's ypur last,Blackpink,1246,22/6/2017,kpop
+10,IDOl,BTS,1198,24/8/2018,kpop
+11,How you like that,Blackpink,1183,26/6/2020,kpop
+12,Fake love,BTS,1182,18/5/2018,kpop
+13,Blood sweet & tears,BTS,920,9/10/2016,kpop
+14,SOLO,Jennie,890,12/11/2018,kpop
+15,Whistle,Blackpink,824,8/8/2016,kpop
+16,Playing with fire,Blackpink,803,31/10/2016,kpop
+17,Dope,BTS,746,23/6/2015,kpop
+18,Fire,BTS,745,1/5/2016,kpop
+19,What is love?,Twice,700,9/4/2018,kpop
+20,Save me,BTS,698,15/5/2016,kpop
+21,Daddy,PSY,669,30/11/2015,kpop
+22,Lovesick girls,Blackpink,650,2/10/2016,kpop
+23,TT,Twice,649,1/6/2016,kpop
+24,Bang Bang Bang,BIGBANG,624,1/6/2015,kpop
+25,Love scenario,iKon,613,25/1/2018,kpop
+26,BBom BBom,Momoland,592,3/1/2018,kpop
+27,Likey,Twice,591,30/0/2017,kpop
+28,Lalisa,Lisa,580,10/9/2021,kpop
+29,Fancy,Twice,565,22/4/2019,kpop
+30,Not today,BTS,564,19/2/2019,kpop
+31,Love Shot,EXO,554,13/12/2018,kpop
+32,Pink Venom,Blackpink,530,19/8/2022,kpop
+33,Fantastic Baby,BIGBANG,525,6/3/2012,kpop
+34,Cheer up,Twice,519,24/4/2016,kpop
+35,Spring day,BTS,503,12/2/2017,kpop
+36,Life goes on,BTS,497,20/11/2020,kpop
+37,Wannbe,ITZY,486,9/3/2020,kpop
+38,I can't stop me,Twice,478,26/10/2020,kpop
+39,Like OOH-AHH,Twice,469,10/10/2015,kpop
+40,Feel Special,Twice,459,23/9/2019,kpop
+41,Black Swan,BTS,446,4/3/2020,kpop
+42,Heart Shaker,Twice,433,11/12/2017,kpop
+43,Monster,EXO,428,8/6/2016,kpop
+44,Boy in luv,BTS,423,11/2/2014,kpop
+45,Just right,GOT7,416,13/7/2015,kpop
+46,Daechwita,SUGA,408,22/5/2020,kpop
+47,That that,PSY,401,29/4/2022,kpop
+48,Yes or Yes,Twice,379,5/11/2018,kpop
+49,God's Menu,Stay kids,3.78,17/6/2020,kpop
+50,Bad boy,Red Velvet,378,29/1/2018,kpop
+51,Chicken Nooddle Soup,j-hope,375,27/9/2019,kpop
+52,HIP,MAMAMOO,371,14/11/2019,kpop
+53,Hangover,PSY,361,8/6/2014,kpop
+54,Psycho,Red Velvent,356,23/12/2019,kpop
+55,Dance the night way,Twice,350,9/7/2018,kpop
+56,Ko Ko Bop,EXO,343,18/7/2017,kpop
+57,Shut down,Blackpink,337,16/9/2022,kpop
+58,I am the best,2NE1,336,27/6/2011,kpop
+59,Stay,Blackpink,333,31/10/2016.kpop
+60,More & more,Twice,331,1/6/2020,kpop
+61,ON,BTS,320,27/2/2020,kpop
+62,Call me Baby,EXO,319,30/5/2015,kpop
+63,War of hormone,BTS,315,21/10/2014,kpop
+64,Knock Knock,Twice,313,20/2/2017,kpop
+65,Dalla Dalla,ITZY,313,11/2/2019,kpop
+66,Signal,Twice,311,15/5/2017,kpop
+67,Back door,Stray Kids,294,14/9/2020,kpop
+68,Growl,EXO,288,31/7/2011,kpop
+69,New face,PSY,281,10/5/2017,kpop
+70,Thunderous,Stray Kids,274,23/8/2021,kpop
+71,DUN DUN,Everglow,273,3/2/2020,kpop
+72,No more dream,272,12/6/2013,kpop
+73,Make a wish,NCT,266,12/10/2021,kpop
+74,Alcohol-free,Twice,263,9/6/2021
+75,Next level,aespa,259,17/5/2021,kpop
+76,BBIBBI,IU,254,10/10/2018,kpop
+77,Overdose,EXO-K,247,6/5/2014,kpop
+78,Don't wanna cry,Seventeen,245,22/5/2017,kpop
+79,shine,Pentagon,244,2/4/2018,kpop
+80,Crooked,G-Dragon,224,4/9/2013,kpop
+81,Killing me,iKon,221,2/8/2018
+82,海闊天空,Beyond,114.8,14/9/2011,cpop
+83,喜歡你,G.M.E,95.9,14/8/2014,cpop
+84,光輝歲月,Beyond,34,12/12/2006,cpop
+85,不許你注定一人,Dear Jane,30.7,17/10/2013,cpop
+86,哪裡只得我共你,Dear Jane,28.7,8/3/2016,cpop
+87,高山低谷,Phil Lam,26.7,27/4/2014,cpop
+88,到此為止,Dear Jane,23.9,8/10/2012,cpop
+89,越難越愛,Jinny Ng,22.2,9/9/2014,cpop
+90,陀飛輪,Eason Chan,22.1,4/3/2010,cpop
+91,Dear my friend,Kuengtu,22,6/8/2021,cpop
+92,無盡,Supper Moment,21.5,18/12/2013,cpop
+93,天梯,C Allstar,21.3,25/11/2010,cpop
+94,記憶棉,mc cheung,21,21/10/2021,cpop
+95,忘記我自己,Hana,21,19/9/2017,cpop
+96,矛盾一生,JW,20.8,23/10/2015,cpop
+97,到此為止,Shinga Lin,20.4,7/2/2012,cpop
+98,傳聞,Pakho Chau,20.4,28/2/2014,cpop
+99,蒙着嘴說愛你,Kuengtu,20.3,30/4/2020,cpop
+100,長相廝守,ToNick,20.1,22/2/2017,cpop
+101,天若有情,Shirley Yuen,20,25/7/2016,cpop
+102,光年之外,G.E.M,261,29/12/2016,cpop
+103,告白氣球,Jay Chow,240,21/10/2016,cpop
+104,你，好不好?,Eric Chou,197,22/7/2016,cpop
+105,演員,Joker Xue,196,8/6/2015,cpop
+106,以後別做朋友,Eric Chou,195,19/9/2014,cpop
+107,小幸運,Hebe,189,20/7/2015,cpop
+108,我的歌聲裏,Wanting Qu,184,23/8/2012,cpop
+109,癡情玫瑰花,Under Lover,182,20/12/2015,cpop
+110,那些年,Hu Xia,174,1/8/2011,cpop
+111,不為誰而作的歌,JJ Lam,156,4/12/2015,cpop
+112,不該,Jay Chou,151,16/6/2016,cpop
+113,怎麼了,Eric Chou,145,10/1/2019,cpop
+114,修煉愛情,JJ Lam,135,28/2/2013,cpop
+115,年少有為,Li Rong Hao,131,3/8/2018,cpop
+116,再見,G.M.E,131,29/10/2015,cpop
+117,後來的我們,MayDay,123,21/7/2016,cpop
+118,喜歡你,G.E.M,95,14/8/2014,cpop	
+119,聽見下雨的聲音,Jay Chou,94,4/10/2015,cpop	
+200,有一種悲傷,A-Lin,91,11/10/2018,cpop	
